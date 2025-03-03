@@ -58,7 +58,7 @@ The microservices are designed to be independent but communicate with each other
 
 ### Cloning the Repository
 ```
-https://github.com/ApsaraWitharana/AD2-CW-Supermarket-Microservices.git
+https://github.com/ranindunethmina/SuperMarket-MicroServices.git
 ```
 
 ## 💜License
